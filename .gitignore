@@ -1,0 +1,19 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Credentials and local secrets
+.env
+.env.*
+!.env.example
+**/llm_creds.txt
+.streamlit/secrets.toml
+
+# Logs and editor/OS files
+*.log
+.DS_Store
+.vscode/
+.idea/
