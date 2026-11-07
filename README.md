@@ -4,6 +4,8 @@ An interactive Streamlit demonstration of SAFE-Cascade, a cost-adaptive routing 
 
 ![SAFE-Cascade demo UI](screenshots/safe-cascade-demo.png)
 
+**Live demo:** <https://safe-cascade-demo-23705222796.us-central1.run.app>
+
 ## Demo at a glance
 
 - Browse curated text-solvable, VLM-needed, and borderline examples.
